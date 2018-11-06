@@ -5,21 +5,27 @@ describe all the repositories under CS-FreeStyle
   - [FancyGames](#FancyGames)
   - [LittleGames](#LittleGames)
 - [Tensorflow]
-  - [TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10](): https://github.com/CS-FreeStyle/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10
-  - [AdversarialNetsPapers](): https://github.com/CS-FreeStyle/AdversarialNetsPapers
-  - [DeepGamingAI_FIFARL]():https://github.com/CS-FreeStyle/DeepGamingAI_FIFARL
-  - [Tensorflow-Tutorial](): https://github.com/CS-FreeStyle/Tensorflow-Tutorial
-  - [FCN.tensorflow](): https://github.com/CS-FreeStyle/FCN.tensorflow
-  - [KittiSeg](): https://github.com/CS-FreeStyle/KittiSeg
-  - [DeepGamingAI_FIFA]():https://github.com/CS-FreeStyle/DeepGamingAI_FIFA
-  - [Road-Semantic-Segmentation](): https://github.com/CS-FreeStyle/Road-Semantic-Segmentation
-  - [Tensorflow-Segmentation](): https://github.com/CS-FreeStyle/Tensorflow-Segmentation
-  - [tensorflow-fcn](): https://github.com/CS-FreeStyle/tensorflow-fcn
-  - [CarND-Semantic-Segmentation-P2](): https://github.com/CS-FreeStyle/CarND-Semantic-Segmentation-P2
-  - [segmentation](): https://github.com/CS-FreeStyle/segmentation
-  - [CarND3-P2-FCN-Semantic-Segmentation](): https://github.com/CS-FreeStyle/CarND3-P2-FCN-Semantic-Segmentation
-  - [ICNet](): https://github.com/CS-FreeStyle/ICNet
-  - [Annotation tool](): https://github.com/CS-FreeStyle/FastAnnotationTool
+  - [Segmentation](#Segmentation)
+  - [Tensorflow](#Tensorflow)
+  
+## Segmentation
+* [KittiSeg](): https://github.com/CS-FreeStyle/KittiSeg
+* [Road-Semantic-Segmentation](): https://github.com/CS-FreeStyle/Road-Semantic-Segmentation
+* [CarND-Semantic-Segmentation-P2](): https://github.com/CS-FreeStyle/CarND-Semantic-Segmentation-P2
+* [segmentation](): https://github.com/CS-FreeStyle/segmentation
+* [CarND3-P2-FCN-Semantic-Segmentation](): https://github.com/CS-FreeStyle/CarND3-P2-FCN-Semantic-Segmentation
+* [ICNet](): https://github.com/CS-FreeStyle/ICNet
+* [Annotation tool](): https://github.com/CS-FreeStyle/FastAnnotationTool
+* [AdversarialNetsPapers](): https://github.com/CS-FreeStyle/AdversarialNetsPapers
+
+## Tensorflow
+* [Tensorflow-Tutorial](): https://github.com/CS-FreeStyle/Tensorflow-Tutorial
+* [Tensorflow-Segmentation](): https://github.com/CS-FreeStyle/Tensorflow-Segmentation
+* [tensorflow-fcn](): https://github.com/CS-FreeStyle/tensorflow-fcn
+* [DeepGamingAI_FIFA]():https://github.com/CS-FreeStyle/DeepGamingAI_FIFA
+* [DeepGamingAI_FIFARL]():https://github.com/CS-FreeStyle/DeepGamingAI_FIFARL
+* [FCN.tensorflow](): https://github.com/CS-FreeStyle/FCN.tensorflow
+* [TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10](): https://github.com/CS-FreeStyle/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10
 
 ## PythonGames
 * [BlockBreaker](): https://github.com/CS-FreeStyle/BlockBreaker
