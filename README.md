@@ -1,9 +1,15 @@
 # contents-list
 describe all the repositories under CS-FreeStyle
-
+- [PythonGames](#PythonGames)
 - [FancyGames](#FancyGames)
 - [LittleGames](#LittleGames)
-- [PythonGames](#PythonGames)
+
+## PythonGames
+* [SnakeGame](): https://github.com/CS-FreeStyle/SnakeGame
+* [Eat-apple-Game](): https://github.com/CS-FreeStyle/Eat-apple-Game
+* [catRunFast](): https://github.com/CS-FreeStyle/catRunFast
+* [BlockBreaker](): https://github.com/CS-FreeStyle/BlockBreaker
+* [cat-like-eating-fish](): https://github.com/CS-FreeStyle/cat-like-eating-fish
 
 ## FancyGames
 * [SuperTuxKart](程序员专属/键盘.md): https://github.com/CS-FreeStyle/SuperTuxKart/tree/master/supertuxkart
@@ -19,13 +25,7 @@ describe all the repositories under CS-FreeStyle
 * [StealthGame](): https://github.com/CS-FreeStyle/StealthGame
 * [FightZombies](): https://github.com/CS-FreeStyle/FightZombies
 * [AoDaMiaoTetris](): https://github.com/CS-FreeStyle/AoDaMiaoTetris
-* [cat-like-eating-fish](): https://github.com/CS-FreeStyle/cat-like-eating-fish
-* [mota](): https://github.com/CS-FreeStyle/mota
-* [BlockBreaker](): https://github.com/CS-FreeStyle/BlockBreaker
-
-## PythonGames
 * [CutFruit](): https://github.com/CS-FreeStyle/CutFruit
-* [SnakeGame](): https://github.com/CS-FreeStyle/SnakeGame
-* [Eat-apple-Game](): https://github.com/CS-FreeStyle/Eat-apple-Game
+* [mota](): https://github.com/CS-FreeStyle/mota
 * [SpaceAirFight](): https://github.com/CS-FreeStyle/SpaceAirFight
-* [catRunFast](): https://github.com/CS-FreeStyle/catRunFast
+
