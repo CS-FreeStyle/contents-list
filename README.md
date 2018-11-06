@@ -4,6 +4,7 @@ describe all the repositories under CS-FreeStyle
   - [PythonGames](#PythonGames)
   - [FancyGames](#FancyGames)
   - [LittleGames](#LittleGames)
+  - [OtherGames](#OtherGames)
 - [Tensorflow]
   - [Segmentation](#Segmentation)
   - [Tensorflow](#Tensorflow)
@@ -53,3 +54,5 @@ describe all the repositories under CS-FreeStyle
 * [mota](): https://github.com/CS-FreeStyle/mota
 * [SpaceAirFight](): https://github.com/CS-FreeStyle/SpaceAirFight
 
+## OtherGames
+* [Games on Github]():https://github.com/XINCGer/games
