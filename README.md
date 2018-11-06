@@ -1,8 +1,9 @@
 # contents-list
 describe all the repositories under CS-FreeStyle
-- [PythonGames](#PythonGames)
-- [FancyGames](#FancyGames)
-- [LittleGames](#LittleGames)
+- [Games]
+  - [PythonGames](#PythonGames)
+  - [FancyGames](#FancyGames)
+  - [LittleGames](#LittleGames)
 
 ## PythonGames
 * [BlockBreaker](): https://github.com/CS-FreeStyle/BlockBreaker
