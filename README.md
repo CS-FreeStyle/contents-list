@@ -1,6 +1,6 @@
 # contents-list
 describe all the repositories under CS-FreeStyle
-- [Games]
+-[Games]
   - [PythonGames](#PythonGames)
   - [FancyGames](#FancyGames)
   - [LittleGames](#LittleGames)
