@@ -15,6 +15,7 @@ describe all the repositories under CS-FreeStyle
 * [SuperTuxKart](程序员专属/键盘.md): https://github.com/CS-FreeStyle/SuperTuxKart/tree/master/supertuxkart
 * [Xonotic](程序员专属/键盘.md): https://github.com/CS-FreeStyle/xonotic
 * [0ad](): https://github.com/CS-FreeStyle/0ad
+* [redeclipse](): https://github.com/red-eclipse
 
 ## LittleGames
 * [BubbleShooter]():https://github.com/CS-FreeStyle/BubbleShooter
