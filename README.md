@@ -9,4 +9,5 @@ describe all the repositories under CS-FreeStyle
 
 ## Gamelist
 * [SuperTuxKart](程序员专属/键盘.md): https://github.com/CS-FreeStyle/SuperTuxKart/tree/master/supertuxkart
-* [键盘](程序员专属/键盘.md): 没错，键盘真的会让那群人高潮。
+* [Xonotic](程序员专属/键盘.md): https://github.com/CS-FreeStyle/xonotic
+* [0ad](): https://github.com/CS-FreeStyle/0ad
