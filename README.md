@@ -17,7 +17,8 @@ describe all the repositories under CS-FreeStyle
 * [redeclipse](): https://github.com/red-eclipse
 
 ## VRGames
-* [NASA Education VR]():http://spacepants.azurewebsites.net/homevr.html  
+* [NASA Education VR]():http://spacepants.azurewebsites.net/homevr.html
+                       :https://github.com/poedja/SpaceTrek
 
 ## PythonGames
 * [BlockBreaker](): https://github.com/CS-FreeStyle/BlockBreaker
