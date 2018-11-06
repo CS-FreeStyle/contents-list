@@ -5,11 +5,11 @@ describe all the repositories under CS-FreeStyle
 - [LittleGames](#LittleGames)
 
 ## PythonGames
-* [SnakeGame](): https://github.com/CS-FreeStyle/SnakeGame
-* [Eat-apple-Game](): https://github.com/CS-FreeStyle/Eat-apple-Game
-* [catRunFast](): https://github.com/CS-FreeStyle/catRunFast
 * [BlockBreaker](): https://github.com/CS-FreeStyle/BlockBreaker
+* [Eat-apple-Game](): https://github.com/CS-FreeStyle/Eat-apple-Game
 * [cat-like-eating-fish](): https://github.com/CS-FreeStyle/cat-like-eating-fish
+* [SnakeGame](): https://github.com/CS-FreeStyle/SnakeGame
+* [catRunFast](): https://github.com/CS-FreeStyle/catRunFast
 
 ## FancyGames
 * [SuperTuxKart](程序员专属/键盘.md): https://github.com/CS-FreeStyle/SuperTuxKart/tree/master/supertuxkart
