@@ -9,6 +9,7 @@ describe all the repositories under CS-FreeStyle
 * [Xonotic](程序员专属/键盘.md): https://github.com/CS-FreeStyle/xonotic
 * [0ad](): https://github.com/CS-FreeStyle/0ad
 ## LittleGames
+** [BubbleShooter]():https://github.com/CS-FreeStyle/BubbleShooter
 * [BubbleShooter]():https://github.com/CS-FreeStyle/BubbleShooter
 * [CutFruit](): https://github.com/CS-FreeStyle/CutFruit
 * [CrazyWorker](): https://github.com/CS-FreeStyle/CrazyWorker
