@@ -5,6 +5,7 @@ describe all the repositories under CS-FreeStyle
   - [VRGames](#VRGames)
   - [PythonGames](#PythonGames)
   - [LittleGames](#LittleGames)
+  - [EducationalGames](#EducationalGames)
   - [OtherGames](#OtherGames)
 - [Tensorflow]
   - [Segmentation](#Segmentation)
@@ -30,8 +31,6 @@ describe all the repositories under CS-FreeStyle
 * [SnakeGame](): https://github.com/CS-FreeStyle/SnakeGame
 * [catRunFast](): https://github.com/CS-FreeStyle/catRunFast
 
-
-
 ## LittleGames
 * [BubbleShooter]():https://github.com/CS-FreeStyle/BubbleShooter
 * [CrazyWorker](): https://github.com/CS-FreeStyle/CrazyWorker
@@ -44,6 +43,9 @@ describe all the repositories under CS-FreeStyle
 * [CutFruit](): https://github.com/CS-FreeStyle/CutFruit
 * [mota](): https://github.com/CS-FreeStyle/mota
 * [SpaceAirFight](): https://github.com/CS-FreeStyle/SpaceAirFight
+
+## EducationalGames
+* [BubbleShooter](https://github.com/topics/educational-game?l=c%23)
 
 ## OtherGames
 * [Games on Github]():https://github.com/XINCGer/games
