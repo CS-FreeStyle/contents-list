@@ -22,6 +22,15 @@ describe all the repositories under CS-FreeStyle
 * [VR-GAMES](https://github.com/topics/vr-game)
 * [tested VR Games](https://github.com/polygraphene/ALVR/wiki/List-of-tested-VR-games-and-experiences)
 * [GoogleVR](https://github.com/googlevr)
+* [Terminal](https://github.com/danielcolinjames/Terminal): A virtual reality puzzle game built in Unity.
+* [vr-war-drum ](https://github.com/kahogeoff/vr-war-drum):A VR music game, like "Taiko No Tatsujin" and Taikojiro. Save every bored souls in your lab.
+* [Flappy Future](https://github.com/djoksimo/FlappyFuture):Flappy Future is an Immersive VR game made for the Google Cardboard with Leap Motion. Created at DeltaHacks 2018
+* [270Tetris ](https://github.com/dschoeneborn/270Tetris):
+* [CloudeLand-project](https://github.com/GigaFlopsis/CloudeLand-project):CloudLand VR the game for Daydream and Cardboard 
+* [invaderInVR](https://github.com/fgadea/invaderInVR):Open source game made in Unity3d and inspired in the classic space invaders game
+* [adaptive-vr-game ](https://github.com/PedroBarcha/adaptive-vr-game):Educational Android VR game for people with Neurodevelopmental Disorders. Developed with Unity
+* [MusicGame](https://github.com/0918nobita/MusicGame):
+* [mern-vrgame ](https://github.com/shamahoque/mern-vrgame):A MERN stack based VR game for the web
 
 ## PythonGames
 * [BlockBreaker](https://github.com/CS-FreeStyle/BlockBreaker)
