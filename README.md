@@ -19,6 +19,7 @@ describe all the repositories under CS-FreeStyle
 
 ## VRGames
 * [NASA Education VR](https://github.com/poedja/SpaceTrek):http://spacepants.azurewebsites.net/homevr.html
+* [OpenVR](https://itch.io/games/osvr)
 * [VR-GAMES](https://github.com/topics/vr-game)
 * [tested VR Games](https://github.com/polygraphene/ALVR/wiki/List-of-tested-VR-games-and-experiences)
 * [GoogleVR](https://github.com/googlevr)
