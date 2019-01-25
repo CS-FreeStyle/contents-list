@@ -41,7 +41,7 @@ describe all the repositories under CS-FreeStyle
 * [cat-like-eating-fish](https://github.com/CS-FreeStyle/cat-like-eating-fish)
 * [SnakeGame](https://github.com/CS-FreeStyle/SnakeGame)
 * [catRunFast](https://github.com/CS-FreeStyle/catRunFast)
-
+* [wechat airplane fighting](https://www.cnblogs.com/wuzhanpeng/category/655359.html)
 ## LittleGames
 * [BubbleShooter](https://github.com/CS-FreeStyle/BubbleShooter)
 * [CrazyWorker](https://github.com/CS-FreeStyle/CrazyWorker)
